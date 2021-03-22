@@ -31,6 +31,8 @@ updated_at:   datetime
 
 Utilize **MySQL** ou **MongoDB** para armazenar os dados que a **API** irá consumir.
 
+**Lembre-se de implementar um *seeder* para popular o banco de dados inicialmente**
+
 ### Bônus (Like a boss) 😎
 Não pedimos isso no teste, mas se fizer será visto com bons olhos
 
