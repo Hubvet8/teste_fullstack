@@ -103,6 +103,11 @@ Utilize algum framework para auxiliar no desenvolvimento da interface, por exemp
 - https://getbootstrap.com/
 - https://materializecss.com/
 
+## Prazo do teste
+O tempo é livre, porém o tempo também conta como critério de avaliação e entrará como parâmetro de avaliação Júnior, Pleno ou Sênior analisado pelo time Hubvet. 
+
+*Não precisa fazer correndo!*, atenção aos requisitos do teste. Queremos você no time. 😃
+
 ## Dúvida
 
 Se tiver qualquer dúvida sobre esse teste, envie um email com o título `[Teste Fullstack] O assunto que vc deseja` para ti@hubvet.cloud
