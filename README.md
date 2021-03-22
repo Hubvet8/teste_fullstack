@@ -84,6 +84,8 @@ Excluir o veículo
 
 Desenvolver uma **Aplicação SPA** em **[Vue.js](https://vuejs.org/)** - ou - **[Angular](https://angular.io/)** de acordo com o desenho que está na pasta [`/layout`](https://github.com/Hubvet8/teste_fullstack/tree/main/layout)
 
+Se não tiver o Photoshop em seu computador, use https://www.photopea.com/
+
 ### Especificação
 
 - Consumir **API** criada acima
